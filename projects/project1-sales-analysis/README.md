@@ -30,4 +30,4 @@ The dataset is a sample sales CSV file located in the `data/` folder.
 
 ---
 
-For questions or feedback, please contact me at your.email@example.com.
+For questions or feedback, please contact me at ranjeet.iitb@hotmail.com.
