@@ -1,6 +1,6 @@
 # Data Analysis Project Portfolio
 
-Hi! I'm **[Your Name]**, a passionate Data Analyst with experience in extracting insights from complex datasets and building actionable reports.
+Hi! I'm **Ranjeet Singh**, a passionate Data Analyst with experience in extracting insights from complex datasets and building actionable reports.
 
 This repository contains a collection of my data analysis projects showcasing my skills in:
 
