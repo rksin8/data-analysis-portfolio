@@ -2,6 +2,19 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.pyo
+*.pyd
+*.env/
+venv/
+env/
+.ipynb_checkpoints/
+
+# data files
+*.csv
+*.xlsx
+*.xls
+*.db
+
 
 # C extensions
 *.so
